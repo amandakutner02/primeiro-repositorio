@@ -1,3 +1,28 @@
+body{
+    background-color: lightgrey;
+    border: solid cadetblue;
+}
+
+
+.título{
+    text-align: center;
+
+}
+
+.frasefinal{
+    text-align: end;
+
+}
+
+.livros{
+margin-left: 35%;
+width: 30%;
+border: dotted cadetblue 05px;
+padding: 05px;
+}
+
+
+
 h1{
 color:cadetblue
 }
