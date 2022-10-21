@@ -1,35 +1,42 @@
-body{
+body {
     background-color: lightgrey;
     border: solid cadetblue;
 }
 
-
-.título{
+.título {
     text-align: center;
 
 }
 
-.frasefinal{
+.frasefinal {
     text-align: end;
 
 }
 
-.livros{
-margin-left: 35%;
-width: 30%;
-border: dotted cadetblue 05px;
-padding: 05px;
+.livros {
+    margin-left: 35%;
+    width: 30%;
+    border: dotted cadetblue 05px;
+    padding: 05px;
+}
+
+.imagemlivro {
+    margin-left: 35%;
+    width: 30%;
+    border: dotted cadetblue 05px;
+    padding: 05px;
+}
+
+h1 {
+    color: cadetblue
+}
+
+h2 {
+    color: cadetblue
+}
+
+h3 {
+    color: cadetblue
 }
 
 
-
-h1{
-color:cadetblue
-}
-    h2{
-        color:cadetblue
-    }
-
-h3{
-    color:cadetblue
-}
